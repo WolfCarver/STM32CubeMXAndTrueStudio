@@ -21,23 +21,23 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   ALLOC
   8 .ARM.attributes 00000029  00000000  00000000  0002000c  2**0
                   CONTENTS, READONLY
-  9 .debug_info   0000b43c  00000000  00000000  00020035  2**0
+  9 .debug_info   0000b42e  00000000  00000000  00020035  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_abbrev 00001c72  00000000  00000000  0002b471  2**0
+ 10 .debug_abbrev 00001c72  00000000  00000000  0002b463  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_loc    000021e9  00000000  00000000  0002d0e3  2**0
+ 11 .debug_loc    000021e9  00000000  00000000  0002d0d5  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_aranges 000004e8  00000000  00000000  0002f2d0  2**3
+ 12 .debug_aranges 000004e8  00000000  00000000  0002f2c0  2**3
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_ranges 00000608  00000000  00000000  0002f7b8  2**3
+ 13 .debug_ranges 00000608  00000000  00000000  0002f7a8  2**3
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_line   0000319f  00000000  00000000  0002fdc0  2**0
+ 14 .debug_line   0000319f  00000000  00000000  0002fdb0  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .debug_str    00001e1d  00000000  00000000  00032f5f  2**0
+ 15 .debug_str    00001e0f  00000000  00000000  00032f4f  2**0
                   CONTENTS, READONLY, DEBUGGING
- 16 .comment      0000007c  00000000  00000000  00034d7c  2**0
+ 16 .comment      0000007c  00000000  00000000  00034d5e  2**0
                   CONTENTS, READONLY
- 17 .debug_frame  00000bd0  00000000  00000000  00034df8  2**2
+ 17 .debug_frame  00000bd0  00000000  00000000  00034ddc  2**2
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
